@@ -27,7 +27,8 @@ class Permissions
         'ForgotPasswordController',
         'ResetPasswordController',
         'RegisterController',
-        'PayPalController'
+        'PayPalController',
+        'FlutterWaveController',
     ];
 
     /**
